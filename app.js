@@ -64,6 +64,4 @@ app.listen(process.env.PORT ||3000,function(){
     console.log("Server is running on port 3000");
 });
 
-// API KEY 4b8b929ce964a6888d8767ebe36d6805-us17
-// audience id - 61deb00862
-// https://usx.api.mailchimp.com/3.0/lists
+
