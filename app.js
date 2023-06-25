@@ -31,7 +31,7 @@ app.post("/",function(req,res){
 
     const Options ={
         method : "POST",
-        auth : "mik:4b8b929ce964a6888d8767ebe36d6805-us17"
+        auth : ""//the auth value from local
     }
 
     const request = https.request(url,Options,function(response){
